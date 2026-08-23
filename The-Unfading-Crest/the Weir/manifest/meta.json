@@ -1,0 +1,194 @@
+{
+  "channel_id": "C7ztkTHjMandkE2h",
+  "channel_name": "沉粱旧堰",
+  "generated_at": "2026-07-25T18:08:27.2135605Z",
+  "display_options": {
+    "activeCustomThemeId": null,
+    "activePlatformThemeId": null,
+    "alwaysShowTimestamp": false,
+    "autoScrollTypingPreview": false,
+    "autoSwitchRoleOnIcOocToggle": true,
+    "avatarBorderRadius": 14,
+    "avatarSize": 48,
+    "avatarVisibilityScope": "all",
+    "battleReportCardExpandedByDefault": false,
+    "botBadgeStyle": "solidBlue",
+    "bubbleGap": 12,
+    "channelAggregateBadgeEnabled": true,
+    "channelNameWrapEnabled": false,
+    "characterCardAutoSyncBotNickname": true,
+    "characterCardBadgeAutoContrastEnabled": true,
+    "characterCardBadgeEnabled": true,
+    "characterCardBadgeSettingsExpanded": true,
+    "characterCardBadgeTemplateByWorld": {},
+    "characterCardBadgeVisibilityScope": "ic",
+    "compactBubbleGap": 4,
+    "customThemeEnabled": false,
+    "customThemes": [],
+    "disableContextMenu": true,
+    "editingSelfActionsPlacement": "right",
+    "enableIcToggleHotkey": true,
+    "favoriteChannelBarEnabled": false,
+    "favoriteChannelHotkeysByWorld": {},
+    "favoriteChannelIdsByWorld": {},
+    "followSystemTheme": false,
+    "fontEnhancedCoverageEnabled": false,
+    "fontSize": 15,
+    "globalFontAssetId": null,
+    "globalFontFamily": "",
+    "globalFontSourceType": "default",
+    "highlightNewlySentMessage": true,
+    "identityQuickSwitchTrigger": "/",
+    "identityRemarkAutoContrastEnabled": true,
+    "identityVariantQuickSwitchTrigger": "=",
+    "inputAreaHeight": 0,
+    "interjectSwitchRule": "invert",
+    "layout": "compact",
+    "letterSpacing": 0,
+    "lineHeight": 1.6,
+    "localizedAvatarSideOffset": 0,
+    "localizedBubbleVisualOffset": 0,
+    "maxExportConcurrency": 2,
+    "maxExportMessages": 1000,
+    "mergeNeighbors": true,
+    "messagePaddingX": 18,
+    "messagePaddingY": 14,
+    "messageSoundMode": "off",
+    "mobileMessageDragLongPressEnabled": false,
+    "mobileMinimalInputEnabled": false,
+    "onlineCharacterCardsEnabled": true,
+    "palette": "night",
+    "paragraphSpacing": 8,
+    "preferStaticAvatarDecoration": false,
+    "quickGalleryLinkedEmojiSendDirectly": false,
+    "quickGalleryPageSize": 15,
+    "sendShortcut": "enter",
+    "showAvatar": true,
+    "showDragIndicator": false,
+    "showInputPreview": true,
+    "showOthersIdentityRemark": true,
+    "showOwnIdentityRemark": true,
+    "showPinnedMessages": true,
+    "sidebarWidth": 272,
+    "systemDayTheme": {
+      "source": "base",
+      "themeId": null
+    },
+    "systemNightTheme": {
+      "source": "base",
+      "themeId": null
+    },
+    "themeSelectionMode": "inherit",
+    "timestampFormat": "datetimeSeconds",
+    "toolbarHotkeys": {
+      "broadcast": {
+        "enabled": true,
+        "hotkey": {
+          "combo": "Ctrl+B",
+          "ctrl": true,
+          "key": "B"
+        }
+      },
+      "diceTray": {
+        "enabled": true,
+        "hotkey": {
+          "combo": "Ctrl+D",
+          "ctrl": true,
+          "key": "D"
+        }
+      },
+      "emoji": {
+        "enabled": true,
+        "hotkey": {
+          "combo": "Ctrl+E",
+          "ctrl": true,
+          "key": "E"
+        }
+      },
+      "history": {
+        "enabled": true,
+        "hotkey": {
+          "combo": "Ctrl+H",
+          "ctrl": true,
+          "key": "H"
+        }
+      },
+      "icToggle": {
+        "enabled": true,
+        "hotkey": {
+          "combo": "Esc",
+          "key": "Escape"
+        }
+      },
+      "interject": {
+        "enabled": true,
+        "hotkey": {
+          "alt": true,
+          "combo": "Alt+I",
+          "key": "I"
+        }
+      },
+      "richMode": {
+        "enabled": true,
+        "hotkey": {
+          "combo": "Ctrl+Shift+R",
+          "ctrl": true,
+          "key": "R",
+          "shift": true
+        }
+      },
+      "send": {
+        "enabled": false,
+        "hotkey": null
+      },
+      "upload": {
+        "enabled": true,
+        "hotkey": {
+          "combo": "Ctrl+U",
+          "ctrl": true,
+          "key": "U"
+        }
+      },
+      "whisper": {
+        "enabled": true,
+        "hotkey": {
+          "combo": "Ctrl+W",
+          "ctrl": true,
+          "key": "W"
+        }
+      },
+      "wideInput": {
+        "enabled": true,
+        "hotkey": {
+          "combo": "Ctrl+L",
+          "ctrl": true,
+          "key": "L"
+        }
+      }
+    },
+    "worldKeywordDeduplicateEnabled": true,
+    "worldKeywordHighlightEnabled": true,
+    "worldKeywordQuickInputEnabled": true,
+    "worldKeywordQuickInputTrigger": "/",
+    "worldKeywordTooltipClickEnabled": true,
+    "worldKeywordTooltipEnabled": true,
+    "worldKeywordTooltipHoverEnabled": true,
+    "worldKeywordTooltipTextIndent": 1,
+    "worldKeywordUnderlineOnly": true
+  },
+  "slice_limit": 500,
+  "max_concurrency": 2,
+  "part_total": 1,
+  "total_messages": 1,
+  "parts": [
+    {
+      "file": "parts/part-001.html",
+      "part_index": 1,
+      "part_total": 1,
+      "messages": 1,
+      "slice_start": "2026-07-24T20:37:43.4275573+08:00",
+      "slice_end": "2026-07-24T20:37:43.4275573+08:00",
+      "sha256": "00761237ebb90ceeb7b601bbf8b6b8559d1e629b22ba2128ef241b1e5b0ef068"
+    }
+  ]
+}
